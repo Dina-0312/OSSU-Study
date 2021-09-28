@@ -15,6 +15,6 @@ OSSU의 커리큘럼에 따라 CS공부한 것을 백업하는 레파지토리 �
 
 ## Introduction to Computer Science
 ### 02.Introduction to Computer Science and Programming using Python
-|Courses|-|완료날짜|
+|Courses|Completion Date|Proof|
 |:---:|:---:|:---:|
 |Introduction to Computer Science and Programming using Python|-|-|
