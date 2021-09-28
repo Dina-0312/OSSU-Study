@@ -6,7 +6,7 @@ OSSU의 커리큘럼에 따라 CS공부한 것을 백업하는 레파지토리 �
 
 # Intro CS
 ## Introduction to Programming
-### 01.Python for Everyone
+### 01.[Python for Everyone](https://www.py4e.com/)
 공부중
 
 
